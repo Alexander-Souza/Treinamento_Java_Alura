@@ -3,5 +3,6 @@ package com.treinamento.hellogit;
 public class HelloGit {
 	public static void main(String[] args) {
 		System.out.println("Hello git!!!");
+		System.out.println("Alexander seja bem vindo ao java...");
 	}
 }
